@@ -1,3 +1,5 @@
+<!-- domains copas disini, (wget https://raw.githubusercontent.com/zevtyardt/zone-h/master/domains.txt -O domains.txt) -->
+
 0--00.com
 0--2.com
 0--g.com
