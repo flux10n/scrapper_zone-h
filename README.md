@@ -18,14 +18,14 @@
 
 
 <details>
-<summary>Attention</summary>
+<summary>Attention</summary><br>
 
-> *Copas? yes i'm copas eak... push nomor satu :v*
-
-> *Coded by [github.user](/)*
+<a href="/"><img align="left" width="150" height="150" src="https://telegra.ph/file/a9526098abc369d12553f.jpg" alt="ngapain"></a>
+This source tool is not 100% made by me, but copied from a neighbor's github, you know I'm a noob hehehe.
+[" Ngoding tak perlu, ngepush nomor satu wkwkwk."](/) Ok gitu aja sorry bahasanya english campur indo :v, sekian makasih.
 </details>
 
-______
+
 
 
 
